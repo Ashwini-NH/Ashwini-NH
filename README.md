@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ashwini 👋
 
-<!--
-**Ashwini-NH/Ashwini-NH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+💻 **Technical Skills**
+- Java
+- JDBC and Hibernate
+- Spring Boot
+- SQL and MySQL
+- HTML, CSS, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects**
+- Secure Banking Management System
+- Book My Ticket
+
+🔗 **Connect with me**:[LinkedIn](https://www.linkedin.com/in/ashwini-hittalamani-97b077281)
